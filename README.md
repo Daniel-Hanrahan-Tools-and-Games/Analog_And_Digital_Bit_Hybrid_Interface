@@ -7,4 +7,6 @@ If you are going to use this with an Arduino then you will need the Arduino driv
 
 You may want to run the tasks you want to do more than once because this type of hardware has not been perfected yet.
 
+To build a Analog/Digital Hybrid bit of ram you take a laser diode and aim it at a photoresistor.
+
 contributors needed
