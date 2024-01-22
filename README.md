@@ -11,4 +11,6 @@ To build a Analog/Digital Hybrid bit of ram you take a laser diode and aim it at
 
 <a href="https://github.com/Daniel-Hanrahan-Tools-and-Games/Analog_And_Digital_Bit_Hybrid_Interface">Repository Page</a>
 
+<a href="https://daniel-hanrahan-tools-and-games.github.io/">Home Page</a>
+
 contributors needed
