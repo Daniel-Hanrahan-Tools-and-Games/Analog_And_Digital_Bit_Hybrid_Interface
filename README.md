@@ -9,6 +9,6 @@ You may want to run the tasks you want to do more than once because this type of
 
 To build a Analog/Digital Hybrid bit of ram you take a laser diode and aim it at a photoresistor.
 
-Repository Page: https://github.com/Daniel-Hanrahan-Tools-and-Games/Analog_And_Digital_Bit_Hybrid_Interface
+<a href="https://github.com/Daniel-Hanrahan-Tools-and-Games/Analog_And_Digital_Bit_Hybrid_Interface">Repository Page</a>
 
 contributors needed
