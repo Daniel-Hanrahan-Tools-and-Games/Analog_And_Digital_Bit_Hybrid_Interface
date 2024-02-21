@@ -11,6 +11,14 @@ To run this application in your browser you will want to put the contents of the
 
 To build a Analog/Digital Hybrid bit of ram you take a laser diode and aim it at a photoresistor.
 
+Amazon Associate identification is on the homepage and my profile bio.
+
+<p>Amazon Affiliate Links for what you will need</p>
+<ul>
+<li><a href="https://daniel-hanrahan-tools-and-games.github.io/LaserDiodeAmazonLink.html">laser diodes</a></li>
+<li><a href="https://daniel-hanrahan-tools-and-games.github.io/PhotoresistorAmazonLink.html">photoresistors</a></li>
+</ul>
+
 <a href="https://github.com/Daniel-Hanrahan-Tools-and-Games/Analog_And_Digital_Bit_Hybrid_Interface">Repository Page</a>
 
 <a href="https://daniel-hanrahan-tools-and-games.github.io/">Home Page</a>
