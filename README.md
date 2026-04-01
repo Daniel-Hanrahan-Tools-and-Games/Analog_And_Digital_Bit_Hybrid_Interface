@@ -19,4 +19,30 @@ To use mod support you have to put the mod file in Analog_And_Digital_Bit_Hybrid
 
 <a href="https://daniel-hanrahan-tools-and-games.github.io/">Home Page</a>
 
+
+
+
+GNU GPL v3.0 Conditional Exceptions to use MPL 2.0
+
+If the following condition is met, the licensing rules for content covered by GNU GPL v3.0 are modified as described below:
+
+Condition:
+
+The developer is distributing, porting, or integrating the software with platforms or environments that impose requirements incompatible with GPL-3.0, including but not limited to:
+- proprietary or non-redistributable SDKs
+- confidential hardware or platform documentation
+- legally required confidentiality obligations preventing full GPL redistribution
+- safety-regulated or certified systems where full GPL redistribution cannot be satisfied
+
+Effect on licensing:
+
+- Content covered by GNU GPL v3.0: May instead be used under the Mozilla Public License 2.0.
+
+These exceptions apply **only when the condition above is met**.
+
+
+
+
+
+
 contributors needed
